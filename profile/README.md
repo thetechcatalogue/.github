@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+This is a front facing repo for our org. We are building a platform for education and if you would like to part of our endeavour then please do connect with us. We are a small team and any type of help is appreciated!
+
+🌇 - We are Launching soon  
+📅 - 20-07-2024
+
+
+
+### Be a partner 
+
+We are looking for contributors as well as sponsors. We will provide full accreditions with transparency on our websites and repo about our sponsors and contributors! 
+
 <!--
 
 **Here are some ideas to get you started:**
